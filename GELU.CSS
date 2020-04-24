@@ -1,0 +1,53 @@
+body{    
+background:pink;
+}
+    .WRAPPER{
+        width:715px;
+        margin:120px;
+            
+        background-color:green;
+        color: #fff;
+        margin-top:30%;
+        padding: 40px;
+}
+form{
+    padding: 10px;
+    padding-left: 40px;
+    border:20px;
+    background: green;
+    margin: 350px;
+    
+}
+h2{
+    text-align: center;
+    background:red;
+    color:navy;
+    padding: 10px;
+    padding:-700px;
+      border-radius: 10px;
+    opacity: .8;
+}
+input{
+    padding: 10px;
+    margin: 5px;
+    border-radius:5px;
+    border: none;
+}
+input[type=text],input[type= mail],input[type=number],input[type=password]{
+    width:60%
+}
+input[type=submit]{
+    width:250;
+    background:black;
+    cursor: pointer;
+    font-size: 12px;
+    font-weight: bold;
+    color:red;
+}
+input [type=submit]:hover{
+    background: yellow;
+}
+
+
+
+  

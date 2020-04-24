@@ -1,0 +1,29 @@
+ body{    
+background:aqua;
+}
+    .WRAPPER{
+        width:715px;
+        margin:120px;
+            
+        background-color:yellowgreen;
+        color: darkturquoise;
+        margin-top:30%;
+        padding: 40px;
+}
+form{
+    padding: 10px;
+    padding-left: 40px;
+    border:20px;
+    background: yellowgreen;
+    margin: 350px;
+    
+}
+h2{
+    text-align: center;
+    background:aqua;
+    color:navy;
+    padding: 10px;
+    padding:-700px;
+      border-radius: 10px;
+    opacity: .8;
+}

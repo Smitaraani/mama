@@ -1,0 +1,51 @@
+out.print("BODY{");
+out.print("background:white;");
+out.print("}");
+ out.print("  .HAPPY SHOPPING{");
+     out.print("   width:715px;");
+      out.print("  margin:120px;");
+            
+      out.print("  background-color:navy;");
+       out.print(" color: #fff;");
+      out.print("  margin-top:30%;");
+      out.print("  padding: 40px;");
+out.print("}");
+out.print("form{");
+ out.print("   padding: 50px;");
+  out.print("  padding-left: 40px;");
+  out.print("  border:20px;");
+   out.print(" background:PINK ;");
+  out.print("  margin: 100px;");
+    
+out.print("}");
+out.print("h1{");
+  out.print("  text-align: center;");
+  out.print("  background:white;");
+  out.print("  color:mediumvioletred;");
+  out.print("  padding: 10px;");
+   out.print(" padding:-700px;");
+   out.print("   border-radius: 10px;");
+    out.print("opacity: .8;");
+out.print("}");
+out.print("input{");
+out.print("    padding: 10px;");
+  out.print("  margin: 5px;");
+   out.print(" border-radius:5px;");
+   out.print(" border: none;");
+out.print("}");
+out.print("input[type=text],input[type= mail],input[type=number],input[type=password]{");
+out.print("    width:60%");
+out.print("}");
+out.print("input[type=submit]{");
+    out.print("width:250;");
+   out.print(" background:black;");
+   out.print(" cursor: pointer;");
+  out.print("  font-size: 40px;");
+   out.print(" font-weight: bold;");
+  out.print("  color:red;");
+out.print("}");
+
+
+
+
+  

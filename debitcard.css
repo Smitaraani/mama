@@ -1,0 +1,48 @@
+ body{
+        background: ;
+    }
+    .wrapper{
+        width: 1000px;
+        margin: 120px;
+        color: mediumslateblue;
+        margin-top: -17px;
+        padding: 40px;
+    }
+    form{
+        padding: 10px;
+        padding-left: 40px;
+        border: 20px;
+        background: GRY;
+        margin: 350px;     
+    }
+    h2{
+        text-align: center;
+        background: mediumvoiletred;
+        color:black;
+        padding: 10px;
+        padding: -700px;
+        border-radius: 10px;
+        opacity: .8; 
+    }
+    input{
+        padding: 10px;
+        margin: 5px;
+        border-radius: 5px;
+        border: none;
+        
+    }
+    
+input[type=text],input[type= mail],input[type=number],input[type=password]{
+    width:60%
+    }
+    
+input[type=proceed]{
+    width:250;
+    background:black;
+    cursor: pointer;
+    font-size: 12px;
+    font-weight: bold;
+    color:red;
+}
+input [type=proceed]:hover{
+    background: yellow;

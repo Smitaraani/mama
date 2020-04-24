@@ -1,0 +1,41 @@
+<style type="text/css">
+body{    
+background:;
+}
+    .wrapper{
+        width:715px;
+        margin:120px;
+            
+        background-color:yellowgreen;
+        color: black;
+        margin-top:10%;
+        padding: 2opx
+}
+form{
+    padding: 10px;
+    padding-left: 80px;
+    border:20px;
+    background: yellowgreen;
+    margin: 250px;
+    width: 350;
+}
+h2{
+    text-align: center;
+    background:white;
+    color: yellowgreen;
+    padding: 10px;
+    padding:-700px;
+      border-radius: 10px;
+}
+input{
+padding: 18px;
+    margin: 5px;
+    border-radius:5px;
+    border: none;
+}
+</style>
+    
+
+
+
+  

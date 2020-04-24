@@ -1,0 +1,19 @@
+out.print("<html>");
+out.print("<head>");
+out.print("<link href="cashpay.css" rel="stylesheet">");
+out.print("<title>CASH</title>");
+out.print("</head>");
+out.print("<body>");
+out.print("<div class="product">");
+out.print("<h1>HAPPY SHOPPING</h1>");
+out.print("<form action="product" method="get">");
+out.print("<P>ADD ADDRESSout.print</P>");
+out.print("<INPUT TYPE="TEXT" NAME="YOURADDRESS" PLACEHOLDER="ENTER-ADDRESS">");
+out.print("<P>ADD PHONE NUMBERout.print</P>");
+out.print("<INPUT TYPE="TEXT" NAME="PHONENUMBER" PLACEHOLDER="ENTER-NUMBER">"); 
+out.print("<INPUT TYPE="SUBMIT" NAME="SUBMIT" PLACEHOLDER="SUBMIT"><BR><BR>");
+    
+out.print("</form>");
+out.print("</div>");
+out.print("</body>");
+out.print("</html>");
